@@ -45,7 +45,7 @@
 
         <div class="row">
 
-          <div class="col-lg-8">
+          <div class="col-lg-12">
             <h2 class="portfolio-title">SpaceFind</h2>
             <div class="owl-carousel portfolio-details-carousel">
               <img src="assets/img/portfolio/SpaceFind/hololens_vis.png" class="img-fluid" alt="">
@@ -62,24 +62,28 @@
             </div>
           </div>
 
-          <div class="col-lg-4 portfolio-info">
+          <div class="col-lg-12 portfolio-info">
             <h3>SpaceFind</h3>
             <ul>
               <li><strong>Category</strong>: Research</li>
               <li><strong>People</strong>: Luisa Caldas (Research Advisor), Allen Yang (Research Advisor), Mohammad Keshavarzi (PhD)
               <li><strong>Labs/Partners</strong>: FHL Vive Center for Enhanced Reality, XR Lab - Virtual, Augmented and Mixed Reality Laboratory (UC Berkeley College of Environmental Design)</li>
               <li><strong>Project Links</strong>: </li>
-              <li><a href="https://vivecenter.berkeley.edu/wp-content/uploads/2019/11/Session3_WooJin_OptimizationandManipulation.pdf">My ISMAR presentation slides</a></li>
-              <li><a href="https://vivecenter.berkeley.edu/research1/openark/">https://vivecenter.berkeley.edu/research1/openark/</a></li>
-              <li><a href="https://ptolemy.berkeley.edu/projects/augcog/">https://ptolemy.berkeley.edu/projects/augcog/</a></li>
+              <li><a href="https://ieeexplore.ieee.org/document/9089441">IEEE VR 2020 Publication</a></li>
+              <li><a href="https://arxiv.org/abs/1910.05998">ARXIV Publication PDF</a></li>
+
             </ul>
 
             <p>
-                Devised integrated modules for processing 3D indoor scenes, calculating the optimal mutual interaction
-                space, and recommending feasible furniture movements to expand the interaction boundaries.
-                Developed a Hololens application in Unity for multiple users to visualize the space layout projections in AR
-                Designing a full-scale Hololens visualization experience with an intuitive UI, visual instructions for moving
-                furniture, more aesthetic and user-friendly designs, and improved hologram stability.
+                Supervised by both Allen Yang of the FHL Vive Center for Enhanced Reality and Professor Luisa Caldas of the XR Lab of College of Environmental Design, I directed research on AR scene layout and space optimization, working jointly with the aforementioned Comp Design PhD student on a system called SpaceFind.
+                Enthralled by the future vision of mixed reality telepresence where users would be able to talk with full 3D hologram reconstructions of each other in the real world, I dove right into creating SpaceFind, a project that takes a giant step in enabling this future by generating the best possible space boundary in which multiple users can interact safely and fluidly in mixed reality, with the space computed based on the room layouts of each users’ remote locations.
+                I personally developed much of the technical pipeline to achieve this goal.
+                I first worked through the process of parsing and processing high-quality 3D indoor scene scan data for labeled bounding boxes.
+                In the second stage, I implemented a module that takes in a set of rooms, defines different categories of interaction spaces (sittable, standable, interactable) for each room, overlays the spaces on top of each other, and runs an optimization algorithm that cycles through all possible rotations and translations on the rooms in order to generate the largest possible mutual space areas.
+                I then added another level of complexity to the space generation by taking into account the weights of movable furniture objects in each room and computing the best set of recommendations for users to move their furniture that would expand the overall mutual space with minimal physical effort.
+                Finally, to visualize SpaceFind in action, I created a rudimentary Hololens AR application for users to visualize the final space layouts.
+                Having published this project at IEEE VR 2020, I am currently continuing to extend this project under a supervised independent study with Professor Caldas.
+                Now with a strong technical infrastructure already established, I am working on designing a full-scale Hololens visualization demo experience with an aesthetically pleasing design, intuitive UI for selecting potential mutual space layouts, visual instructions for moving furniture, and improved multi-user capabilities as we aim for a journal publication with extensive user studies.
             </p>
           </div>
 

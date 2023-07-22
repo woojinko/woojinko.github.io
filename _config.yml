@@ -204,6 +204,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+url: https://www.woojinko.com
 
 
 # Markdown Processing

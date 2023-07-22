@@ -21,4 +21,5 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
-          JEKYLL_PAT: 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
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          

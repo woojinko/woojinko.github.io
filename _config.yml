@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Woojin (he/they)"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Woojin Ko"
+name                     : "Woojin Ko (he/they)"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

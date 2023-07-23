@@ -2,9 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Photos"
+    url: /photos/
   - title: "CV"
     url: /cv/
   - title: "Blog"
     url: /blog/
-  - title: "Photos"
-    url: /photos/

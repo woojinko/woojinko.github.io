@@ -7,7 +7,7 @@
   background: $gradient-color;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;
+  padding-left: 0em;
   padding-right: 0em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -21,6 +21,8 @@
 }
 
 body {
+  padding-left: 1em;
+  padding-right: 1em;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -37,6 +39,8 @@ body {
 }
 
 .page {
+  padding-left: 1em;
+  padding-right: 1em;
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});

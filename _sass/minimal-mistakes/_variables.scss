@@ -36,10 +36,12 @@ $ptsans: "PT Sans" !default;
 $lateef: "Lateef" !default;
 $crimson: "Crimson Text" !default;
 
-$global-font-family: $ptsans !default;
-$header-font-family: $ptsans !default;
-$caption-font-family: $ptsans !default;
-$other-font-family: $ptsans !default;
+$my-font: "Baskerville" !default;
+
+$global-font-family: $my-font !default;
+$header-font-family: $my-font !default;
+$caption-font-family: $my-font !default;
+$other-font-family: $my-font !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px

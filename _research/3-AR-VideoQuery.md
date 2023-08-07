@@ -1,7 +1,7 @@
 ---
-title: "AR-Video Query | Woojin Ko, Revekka Kostoeva, Tina Piracci, Srikar Varanasi"
+title: "AR-Video Query: Spatio-Temporal IPhone Video Data Queries (EECS Honors Senior Thesis)"
 layout: splash
-excerpt: "EECS Honors Senior Thesis: Unity App Interface For Spatio-Temporal IPhone Video Data Queries"
+excerpt: "Woojin Ko, Revekka Kostoeva, Tina Piracci, Srikar Varanasi"
 header:
   image: /assets/images/research/ar-videoquery/interface.jpg
   teaser: /assets/images/research/ar-videoquery/interface.jpg

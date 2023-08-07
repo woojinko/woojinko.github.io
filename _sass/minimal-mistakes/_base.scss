@@ -248,6 +248,7 @@ figure {
   &.third {
     > a,
     > img {
+      margin-bottom: 1em;
       @include breakpoint($small) {
         width: calc(33.3333% - 0.5em);
       }

@@ -32,7 +32,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0.5em;
+  margin: 0.5em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: $muted-text-color;
@@ -152,6 +152,7 @@
 .grid__item {
   margin-top: 0em;
   margin-bottom: 0em;
+  font-size: 1em;
 
   @include breakpoint($small) {
     float: left;
@@ -208,15 +209,16 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: 0.9em;
   }
 
   .archive__item-excerpt {
     display: none;
+    font-size: 0.9em;
 
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-5;
+      font-size: 0.9em;
     }
   }
 

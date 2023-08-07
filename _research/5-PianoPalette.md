@@ -1,7 +1,7 @@
 ---
-title: "Piano Palette | Edward H, Woojin K, Josh M, Ellen N, Umang S, Clarissa W"
+title: "Piano Palette: Designing Real-Time Piano Mobile AR Music Visualization Of Various Musical Moods (Jacobs Institute Innovation Catalysts Spark Grant Winner)"
 layout: splash
-excerpt: "Jacobs Institute Innovation Catalysts Spark Grant Winner: Designing Real-Time Piano Mobile AR Music Visualization Of Various Musical Moods."
+excerpt: "Edward H, Woojin K, Josh M, Ellen N, Umang S, Clarissa W"
 header:
   image: /assets/images/research/pianopalette/screenshot.jpg
   teaser: /assets/images/research/pianopalette/screenshot.jpg

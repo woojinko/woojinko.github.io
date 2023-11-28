@@ -9,7 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9.3"
 
+gem "nokogiri", ">= 2.9.6"
 gem "github-pages", "~> 228"
+
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minimal-mistakes-jekyll"

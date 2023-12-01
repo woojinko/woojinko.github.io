@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9.3"
 
-gem "nokogiri", ">= 2.9.6"
+gem "nokogiri"
 gem "github-pages", "~> 228"
 
 

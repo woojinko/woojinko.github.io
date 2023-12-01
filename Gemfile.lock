@@ -273,6 +273,7 @@ DEPENDENCIES
   jekyll-pdf-embed
   jekyll-sitemap
   minimal-mistakes-jekyll
+  nokogiri
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

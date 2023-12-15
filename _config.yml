@@ -107,8 +107,8 @@ author:
   name             : "Woojin Ko"
   avatar           : "/assets/images/profile/profile.jpg"
   bio              : "Mixed Reality (XR) Researcher"
-  location         : "Cornell Tech NYC"
   email            : "woojinko@cs.cornell.edu"
+  linkedin         : "woojin-ko"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -116,15 +116,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/stillwoojy/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/woojingerbread"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/woojin_ko"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+
 
 
 

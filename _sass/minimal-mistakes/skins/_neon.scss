@@ -3,11 +3,10 @@
    ========================================================================== */
 
 /* Colors */
-
-$background-color: linear-gradient(0.25turn, #78c3e3, #ebf8e1, #FFC0CB);
+$gradient-color: linear-gradient(0.25turn, #78c3e3, #ebf8e1, #FFC0CB);
+$background-color: $gradient-color;
 $sidebar-color: linear-gradient(0.25turn, #78c3e3, #afdbde);
 //$gradient-color: linear-gradient(90deg, #FFC0CB 20%, #5bffff 80%) !default;
-$gradient-color: linear-gradient(0.25turn, #78c3e3, #ebf8e1, #FFC0CB);
 $text-color: #000000 !default;
 $primary-color: #000000 !default;
 $border-color: #fff !default;

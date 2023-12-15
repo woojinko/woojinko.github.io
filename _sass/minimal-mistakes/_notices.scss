@@ -17,7 +17,7 @@
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
-  background-color: mix($background-color, $notice-color, $notice-background-mix);
+  background-color: $background-color;
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
@@ -54,7 +54,7 @@
   }
 
   code {
-    background-color: mix($background-color, $notice-color, $code-notice-background-mix)
+    background-color: $background-color;
   }
 
 	pre code {

@@ -9,7 +9,7 @@
 .sidebar {
   background: $sidebar-color;
   padding-left: 2em;
-  padding-right: 1em;
+  padding-right: 0em;
   @include clearfix();
   // @include breakpoint(max-width $large) {
   //   /* fix z-index order of follow links */
@@ -147,6 +147,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -185,6 +186,8 @@
 
 .author__urls-wrapper {
   position: relative;
+  margin-top: 10px;
+  text-align: center;
   display: table-cell;
   vertical-align: middle;
   font-family: $other-font-family;

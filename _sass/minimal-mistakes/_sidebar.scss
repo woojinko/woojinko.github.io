@@ -172,7 +172,7 @@
 }
 .sidebar .author__name {
   font-family: $my-font;
-  font-size: $type-size-5;
+  font-size: $h-size-3;
 }
 
 .author__bio {
@@ -306,6 +306,7 @@
 
   li {
     white-space: nowrap;
+    
   }
 
   a {
@@ -315,7 +316,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $h-size-3;
     text-decoration: none;
 
     &:hover {

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Woojin Ko (he/they)"
+title                    : "Woojin Ko"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Woojin Ko (he/they)"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woojin Ko"
+  name             : "Woojin Ko (he/they)"
   avatar           : "/assets/images/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
   email            : "woojinko@cs.cornell.edu"

@@ -1,0 +1,7 @@
+I really grew to admire the art on display along public transportation avenues, whether in metro stations or on the tram systems.
+
+The city itself seemed to have a global aura to it. Maybe it was for being the home of the widely multicultural food hall called Time Out Market. Or it might’ve been its history of being one of the oldest cities in the world, with a colonial past of flourishing trade + scientific explorations and the immense shame + trauma that comes with the evil means associated i.e. slavery/violence/etc.
+
+I can’t speak much about this, given I was only there for a few days, but it seems worth it to bring up the two sides of the coin for those who plan to visit Lisbon or other major European cities with such history.
+
+A similar story can obviously be told for American national parks in their horrific treatment of indigenous populations, big corporations in their abuse of labor + tax loopholes in the quest for profits, or celebrities who fail to exercise their power/platforms responsibly – the list goes on. It does personally make me wonder whether the pursuit of money/fame/power is ever worth it, considering their corrupting influences. Just me thinking and ranting aloud I think ~

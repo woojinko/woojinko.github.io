@@ -3,7 +3,7 @@ title: "XRCare Demo (Cornell Tech Open Studio)"
 layout: splash
 excerpt: "Liam Albright, Woojin Ko, Meyhaa Buvanesh, Harald Haraldsson, Fernanda Polubriaginof, Gilad Kuperman, Michelle Levy, Deborah Estrin, Nicki Dell"
 header:
-  image: /assets/images/research/xrcare/cover-photo.png
+  # image: /assets/images/research/xrcare/cover-photo.png
   teaser: /assets/images/research/xrcare/cover-video.gif
 gallery:
   - url: /assets/images/research/spacefind/furniture-2.png
@@ -36,5 +36,9 @@ gallery:
 pdf_file: "/assets/pdf/Spacefind.pdf"
 ---
 
-{% include gallery %}
+<!-- {% include gallery %} -->
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKdGosOu5Ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

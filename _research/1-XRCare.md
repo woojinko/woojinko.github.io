@@ -1,9 +1,9 @@
 ---
-title: "XRCare Demo (Cornell Tech Open Studio)"
+title: "XR Care Demo (Cornell Tech Open Studio 2023)"
 layout: splash
 excerpt: "Liam Albright, Woojin Ko, Meyhaa Buvanesh, Harald Haraldsson, Fernanda Polubriaginof, Gilad Kuperman, Michelle Levy, Deborah Estrin, Nicki Dell"
 header:
-  # image: /assets/images/research/xrcare/cover-photo.png
+  #image: /assets/images/research/xrcare/cover-photo.png
   teaser: /assets/images/research/xrcare/cover-video.gif
 gallery:
   - url: /assets/images/research/spacefind/furniture-2.png

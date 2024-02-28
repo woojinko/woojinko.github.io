@@ -3,8 +3,8 @@ title: "Piano Palette: Designing Real-Time Piano Mobile AR Music Visualization O
 layout: splash
 excerpt: "Edward H, Woojin K, Josh M, Ellen N, Umang S, Clarissa W"
 header:
-  image: /assets/images/research/pianopalette/screenshot.jpg
-  teaser: /assets/images/research/pianopalette/screenshot.jpg
+  image: /assets/research/pianopalette/cover-screenshot.jpg
+  teaser: /assets/research/pianopalette/cover-screenshot.jpg
 pdf_file: "/assets/pdf/pp-deck.pdf"
 
 ---

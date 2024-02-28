@@ -3,26 +3,26 @@ title: "OpenARK – Tackling Augmented Reality Challenges via an Open-Source SDK
 layout: splash
 excerpt: "Joseph Menke, Woojin Ko, Allen Y Yang"
 header:
-  image: /assets/images/research/openark/conference.jpg
-  teaser: /assets/images/research/openark/conference.jpg
+  image: /assets/research/openark/cover-conference.jpg
+  teaser: /assets/research/openark/cover-conference.jpg
 gallery:
-  - url: /assets/images/research/openark/me-front.jpeg
-    image_path: /assets/images/research/openark/me-front.jpeg
+  - url: /assets/research/openark/me-front.jpeg
+    image_path: /assets/research/openark/me-front.jpeg
     alt: "me-front"
-  - url: /assets/images/research/openark/conference.jpg
-    image_path: /assets/images/research/openark/conference.jpg
-    alt: "conference"
-  - url: /assets/images/research/openark/me-talking.jpg
-    image_path: /assets/images/research/openark/me-talking.jpg
+  - url: /assets/research/openark/cover-conference.jpg
+    image_path: /assets/research/openark/cover-conference.jpg
+    alt: "cover-conference"
+  - url: /assets/research/openark/me-talking.jpg
+    image_path: /assets/research/openark/me-talking.jpg
     alt: "me-talking"
-  - url: /assets/images/research/openark/icon.png
-    image_path: /assets/images/research/openark/icon.png
+  - url: /assets/research/openark/icon.png
+    image_path: /assets/research/openark/icon.png
     alt: "icon"
-  - url: /assets/images/research/openark/website.png
-    image_path: /assets/images/research/openark/website.png
+  - url: /assets/research/openark/website.png
+    image_path: /assets/research/openark/website.png
     alt: "website"
-  - url: /assets/images/research/openark/github.jpg
-    image_path: /assets/images/research/openark/github.jpg
+  - url: /assets/research/openark/github.jpg
+    image_path: /assets/research/openark/github.jpg
     alt: "github"
 pdf_file: "/assets/pdf/OpenARK.pdf"
 ---

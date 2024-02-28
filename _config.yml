@@ -24,7 +24,7 @@ description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/500x300.png"
 logo                     : #
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Woojin Ko (he/they)"
-  avatar           : "/assets/images/profile/profile.jpg"
+  avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
   email            : "woojinko@cs.cornell.edu"
   linkedin         : "woojin-ko"

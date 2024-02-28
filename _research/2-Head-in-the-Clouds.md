@@ -3,8 +3,8 @@ title: "Head in the Clouds (3D User Interfaces Final 2023)"
 layout: splash
 excerpt: "Woojin Ko, Kenneth Alvarez, Georgi Kalancha"
 header:
-  #image: /assets/images/research/head-in-the-clouds/
-  teaser: /assets/images/research/head-in-the-clouds/cover-video.gif
+  #image: /assets/research/head-in-the-clouds/
+  teaser: /assets/research/head-in-the-clouds/cover-video.gif
 ---
 
 <!-- {% include gallery %} -->

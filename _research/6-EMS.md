@@ -3,32 +3,32 @@ title: "EMS VR: Enhancing VR Experience Through Electrical Muscle Stimulation Sy
 layout: splash
 excerpt: "James Smith, Woojin Ko, Bjoern Hartmann"
 header:
-  image: /assets/images/research/ems/group.jpg
-  teaser: /assets/images/research/ems/group.jpg
+  image: /assets/research/ems/cover-group.jpg
+  teaser: /assets/research/ems/cover-group.jpg
 gallery:
-  - url: /assets/images/research/ems/scene.jpg
-    image_path: /assets/images/research/ems/scene.png
+  - url: /assets/research/ems/scene.jpg
+    image_path: /assets/research/ems/scene.png
     alt: "scene"
-  - url: /assets/images/research/ems/tennis.jpg
-    image_path: /assets/images/research/ems/tennis.png
+  - url: /assets/research/ems/tennis.jpg
+    image_path: /assets/research/ems/tennis.png
     alt: "tennis"
-  - url: /assets/images/research/ems/group.jpg
-    image_path: /assets/images/research/ems/group.jpg
+  - url: /assets/research/ems/cover-group.jpg
+    image_path: /assets/research/ems/cover-group.jpg
     alt: "group"
-  - url: /assets/images/research/ems/circuit.jpg
-    image_path: /assets/images/research/ems/circuit.jpg
+  - url: /assets/research/ems/circuit.jpg
+    image_path: /assets/research/ems/circuit.jpg
     alt: "circuit"
-  - url: /assets/images/research/ems/poster.jpg
-    image_path: /assets/images/research/ems/poster.jpg
+  - url: /assets/research/ems/poster.jpg
+    image_path: /assets/research/ems/poster.jpg
     alt: "poster"
-  - url: /assets/images/research/ems/video.mp4
-    image_path: /assets/images/research/ems/action-shot.jpg
+  - url: /assets/research/ems/video.mp4
+    image_path: /assets/research/ems/action-shot.jpg
     alt: "video"
-  - url: /assets/images/research/ems/circuit-diagram.jpg
-    image_path: /assets/images/research/ems/circuit-diagram.jpg
+  - url: /assets/research/ems/circuit-diagram.jpg
+    image_path: /assets/research/ems/circuit-diagram.jpg
     alt: "circuit diagram"
-  - url: /assets/images/research/ems/anatomy.jpg
-    image_path: /assets/images/research/ems/anatomy.jpg
+  - url: /assets/research/ems/anatomy.jpg
+    image_path: /assets/research/ems/anatomy.jpg
     alt: "anatomy"
 ---
 

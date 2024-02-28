@@ -3,7 +3,7 @@ title: "EMS VR: Enhancing VR Experience Through Electrical Muscle Stimulation Sy
 layout: splash
 excerpt: "James Smith, Woojin Ko, Bjoern Hartmann"
 header:
-  image: /assets/research/ems/cover-group.jpg
+  #image: /assets/research/ems/cover-group.jpg
   teaser: /assets/research/ems/cover-group.jpg
 gallery:
   - url: /assets/research/ems/scene.jpg
@@ -15,6 +15,12 @@ gallery:
   - url: /assets/research/ems/cover-group.jpg
     image_path: /assets/research/ems/cover-group.jpg
     alt: "group"
+  - url: /assets/research/ems/anatomy.jpg
+    image_path: /assets/research/ems/anatomy.jpg
+    alt: "anatomy"
+  - url: /assets/research/ems/circuit-diagram.jpg
+    image_path: /assets/research/ems/circuit-diagram.jpg
+    alt: "circuit diagram"
   - url: /assets/research/ems/circuit.jpg
     image_path: /assets/research/ems/circuit.jpg
     alt: "circuit"
@@ -24,12 +30,6 @@ gallery:
   - url: /assets/research/ems/video.mp4
     image_path: /assets/research/ems/action-shot.jpg
     alt: "video"
-  - url: /assets/research/ems/circuit-diagram.jpg
-    image_path: /assets/research/ems/circuit-diagram.jpg
-    alt: "circuit diagram"
-  - url: /assets/research/ems/anatomy.jpg
-    image_path: /assets/research/ems/anatomy.jpg
-    alt: "anatomy"
 ---
 
 {% include gallery %}

@@ -9,6 +9,10 @@ toc_sticky: true   # enables sticky toc
 
 project-gallery:
   - url: /projects/
+    image_path: /assets/projects/adhd-autism-social-vr/flyer-cropped.png
+    alt: "adhd-autism-social-vr"
+    title: "ADHD autism social VR"
+  - url: /projects/
     image_path: /assets/projects/xrcare/cover-video.gif
     alt: "xrcare"
     title: "XRCare"
@@ -22,16 +26,20 @@ project-gallery:
     title: "OpenARK"
   - url: /projects/
     image_path: /assets/projects/head-in-the-clouds/cover-video.gif
-    alt: "head in the clouds"
+    alt: "head-in-the-clouds"
     title: "Head in the Clouds"
   - url: /projects/
     image_path: /assets/projects/ar-videoquery/cover-interface.jpg
-    alt: "ar video query"
+    alt: "ar-video-query"
     title: "AR-Video Query"
   - url: /projects/
     image_path: /assets/projects/ems/cover-group.jpg
     alt: "ems"
     title: "EMS"
+  - url: /projects/
+    image_path: /assets/projects/pianopalette/cover-screenshot.jpg
+    alt: "piano-palette"
+    title: "Piano Palette"
 ---
 
 <html>
@@ -69,7 +77,7 @@ My current research in **human-computer interaction** focuses on the intersectio
 
 {% include gallery layout="half" id="project-gallery"%}
 
-### Notes
+### Reflections
 
 I feel grateful to be working in this space alongside like-minded
 collaborators towards what we hope can be meaningful social change. 

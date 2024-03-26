@@ -63,7 +63,11 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  font-size: $h-size-2;
+  font-size: $h-size-5;
+
+  @include breakpoint($medium) {
+    font-size: $h-size-1;
+  }
 
   width: 100%;
   clear: both;

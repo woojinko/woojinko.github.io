@@ -15,6 +15,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
+  
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
@@ -39,15 +40,16 @@ body {
 .page {
   padding-left: 1em;
   padding-right: 1em;
+  
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: 0;
+    width: calc(100% - #{$left-sidebar-width});
+    padding-right: $right-sidebar-width;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: 0;
+    width: calc(100% - #{$left-sidebar-width});
+    padding-right: $right-sidebar-width-wide;
   }
 
   .page__inner-wrap {
@@ -91,8 +93,8 @@ body {
   padding-right: 1em;
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    // padding-bottom: 0.5em;
+    // border-bottom: 1px solid $border-color;
   }
 
 	h1, h2, h3, h4, h5, h6 {
@@ -112,10 +114,14 @@ body {
 		}
 	}
 
-  p,
+
+  p {
+    font-size: $h-size-3;
+  }
+
   li,
   dl {
-    font-size: $h-size-3;
+    // font-size: $type-size-4;
   }
 
   /* paragraph indents */

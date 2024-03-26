@@ -5,6 +5,7 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
+  
 
   @include breakpoint($large) {
     float: right;
@@ -138,13 +139,18 @@
 .archive {
   .grid__wrapper {
     /* extend grid elements to the right */
+    margin-right: -1 * $right-sidebar-width-narrow;
+
+    @include breakpoint($medium) {
+      margin-right: -1 * $right-sidebar-width-medium;
+    }
 
     @include breakpoint($large) {
-      margin-right: -1 * $right-sidebar-width-narrow;
+      margin-right: -1 * $right-sidebar-width;
     }
 
     @include breakpoint($x-large) {
-      margin-right: -1 * $right-sidebar-width;
+      margin-right: -1 * $right-sidebar-width-wide;
     }
   }
 }
@@ -152,37 +158,56 @@
 .grid__item {
   margin-bottom: 2em;
 
-  @include breakpoint($small) {
-    float: left;
-    width: span(5 of 10);
+  float: left;
+    width: span(4 of 12);
 
-    &:nth-child(2n + 1) {
+    &:nth-child(3n + 1) {
       clear: both;
       margin-left: 0;
     }
 
-    &:nth-child(2n + 2) {
+    &:nth-child(3n + 2) {
       clear: none;
-      margin-left: gutter(of 10);
+      margin-left: gutter(of 12);
     }
-  }
+
+    &:nth-child(3n + 3) {
+      clear: none;
+      margin-left: gutter(of 12);
+    }
+  
+  
+  // @include breakpoint($small) {
+  //   float: left;
+  //   width: span(5 of 10);
+
+  //   &:nth-child(2n + 1) {
+  //     clear: both;
+  //     margin-left: 0;
+  //   }
+
+  //   &:nth-child(2n + 2) {
+  //     clear: none;
+  //     margin-left: gutter(of 10);
+  //   }
+  // }
 
   
 
-  @include breakpoint($medium) {
-    float: left;
-    width: span(5 of 10);
+  // @include breakpoint($medium) {
+  //   float: left;
+  //   width: span(5 of 10);
 
-    &:nth-child(2n + 1) {
-      clear: both;
-      margin-left: 0;
-    }
+  //   &:nth-child(2n + 1) {
+  //     clear: both;
+  //     margin-left: 0;
+  //   }
 
-    &:nth-child(2n + 2) {
-      clear: none;
-      margin-left: gutter(of 10);
-    }
-  }
+  //   &:nth-child(2n + 2) {
+  //     clear: none;
+  //     margin-left: gutter(of 10);
+  //   }
+  // }
 
 
 
@@ -260,8 +285,8 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+  // margin-bottom: 2em;
+  // border-bottom: 1px solid $border-color;
 
   .archive__item-title {
     margin-bottom: 0;

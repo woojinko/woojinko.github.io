@@ -21,4 +21,4 @@ gallery:
   - image_path: assets/fun-photos/andy-wedding/10.jpeg
 ---
 
-{% include gallery %}
+{% include gallery layout="third"%}

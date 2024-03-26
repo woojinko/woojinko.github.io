@@ -126,7 +126,7 @@ author:
 
 # Collections
 collections:
-  research:
+  projects:
     output: true
     permalink: /:collection/:path/
   blog:
@@ -297,7 +297,7 @@ defaults:
       related: true
   - scope:
       path: ""
-      type: research
+      type: projects
     values:
       layout: splash
       author_profile: false
@@ -308,4 +308,11 @@ defaults:
     values:
       layout: splash
       author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: splash
+      author_profile: true
       share: true

@@ -8,7 +8,7 @@
 
 .sidebar {
   background: $sidebar-color;
-  padding-left: 2em;
+  padding-left: 0em;
   padding-right: 0em;
   @include clearfix();
   // @include breakpoint(max-width $large) {
@@ -21,7 +21,7 @@
 
   @include breakpoint($large) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    width: calc(#{$left-sidebar-width} - 1em);
     opacity: 0.9;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -39,14 +39,15 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
-  }
-
   > * {
     margin-top: 0em;
     margin-bottom: 0em;
     padding-top: 2em;
+    padding-left: 0em;
+
+    @include breakpoint($large) {
+      padding-left: 2em;
+    }
   }
 
   h2,
@@ -77,13 +78,20 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: $right-sidebar-width-narrow;
+
+  @include breakpoint($medium) {
+    width: $right-sidebar-width-medium;
+  }
 
   @include breakpoint($large) {
     position: absolute;
     top: 0;
     right: 0;
-    width: $right-sidebar-width-narrow;
-    margin-right: -1 * $right-sidebar-width-narrow;
+    width: $right-sidebar-width;
+    margin-right: -1 * $right-sidebar-width;
     padding-left: 1em;
     z-index: 10;
 
@@ -97,8 +105,8 @@
   }
 
   @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-    margin-right: -1 * $right-sidebar-width;
+    width: $right-sidebar-width-wide;
+    margin-right: -1 * $right-sidebar-width-wide;
   }
 }
 
@@ -119,42 +127,28 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
+  display: block;
+  margin: auto;
+  text-align: center;
 
   img {
     max-width: 250px;
+    text-align: center;
     border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 0px solid $border-color;
-    }
+    // @include breakpoint($large) {
+    //   max-width: 250px;
+    // }
   }
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
   line-height: 1;
   text-align: center;
-
-  @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-  }
 
   a {
     color: inherit;
@@ -164,11 +158,8 @@
 
 .author__name {
   margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .sidebar .author__name {
   font-family: $my-font;
@@ -177,19 +168,15 @@
 
 .author__bio {
   margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .author__urls-wrapper {
   position: relative;
   margin-top: 10px;
   text-align: center;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $other-font-family;
   z-index: 20;
   cursor: pointer;
@@ -204,10 +191,6 @@
     span.label {
       padding-left: 5px;
     }
-  }
-
-  @include breakpoint($large) {
-    display: block;
   }
 
   button {

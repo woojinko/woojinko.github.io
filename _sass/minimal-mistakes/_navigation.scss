@@ -29,11 +29,11 @@
 
     @include breakpoint($large) {
       float: right;
-      width: calc(100% - #{$right-sidebar-width-narrow});
+      width: calc(100% - #{$left-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width});
+      width: calc(100% - #{$left-sidebar-width});
     }
   }
 
@@ -514,7 +514,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-3;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -531,11 +531,7 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: $type-size-6;
-
-  @include breakpoint($large) {
-    font-size: $type-size-7;
-  }
+  font-size: $type-size-8;
 
   a {
     display: block;
@@ -543,6 +539,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
+    font-size: $type-size-2;
     border-bottom: 1px solid $border-color;
 
     &:hover {
@@ -552,22 +549,27 @@
 
   li ul > li a {
     padding-left: 1.25rem;
-    font-weight: normal;
+    font-size: $type-size-3;
+    // font-weight: normal;
   }
 
   li ul li ul > li a {
+    font-size: $type-size-3;
     padding-left: 1.75rem;
   }
 
   li ul li ul li ul > li a {
+    font-size: $type-size-3;
     padding-left: 2.25rem;
   }
 
   li ul li ul li ul li ul > li a {
+    font-size: $type-size-3;
     padding-left: 2.75rem;
   }
 
   li ul li ul li ul li ul li ul > li a {
+    font-size: $type-size-3;
     padding-left: 3.25rem
   }
 }

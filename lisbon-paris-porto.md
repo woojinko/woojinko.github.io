@@ -1,3 +1,17 @@
+Lisbon
+
+I really grew to admire the art on display along public transportation avenues, whether in metro stations or on the tram systems.
+
+The city itself seemed to have a global aura to it. Maybe it was for being the home of the widely multicultural food hall called Time Out Market. Or it might’ve been its history of being one of the oldest cities in the world, with a colonial past of flourishing trade + scientific explorations and the immense shame + trauma that comes with the evil means associated i.e. slavery/violence/etc.
+
+I can’t speak much about this, given I was only there for a few days, but it seems worth it to bring up the two sides of the coin for those who plan to visit Lisbon or other major European cities with such history.
+
+A similar story can obviously be told for American national parks in their horrific treatment of indigenous populations, big corporations in their abuse of labor + tax loopholes in the quest for profits, or celebrities who fail to exercise their power/platforms responsibly – the list goes on. It does personally make me wonder whether the pursuit of money/fame/power is ever worth it, considering their corrupting influences. Just me thinking and ranting aloud I think ~
+
+
+Paris
+
+
 Bread melting in my mouth – the highest quality seemed available at any cafe. Toilets having dual flush options – conservation of water practiced seriously by the public sector. Fashion following designer/luxury brands heavily – indie or gender-fluid fashion felt nearly nonexistent. But the biggest culture shock that I faced here was not with Paris or France, but with South Korea.
 
 See, I spent over a month traveling Europe with my older cousin. We hadn’t seen each other in over 4 years, given that all of my extended family live in Korea, but I had remembered us being butt-buddies back then. We’d march around Jeju Island together, giggling at all the same things and competing in all these games we’d make up and play.
@@ -25,3 +39,17 @@ As the trip went on, we learned to respect each other’s differences and get al
 It is not to say that we should all immediately separate into our own echo-chambers of the few people with the same exact beliefs on things. Not only is that near impossible to find, but that itself is one of the roots of the problems of distrust and polarization that we see in the world today. Yet, I do wish to proclaim that I am letting go of the ideal I once bore – that I should truly try my best to get close to as many people as possible, since everyone can be a cool, interesting person in their own right. I am learning that it is still best to build multi-layered social circles, for the sake of exposure to new lifestyles that may open my eyes to new possibilities, but I must make sure to build an innermost layer of people with largely similar sets of values and world-views. That model of close friendship seems to be the best guarantee of comfort, safety, and support during rough times. Being open-minded and nonjudgemental helps of course too, but these are qualities that are quite difficult to actualize, especially when our emotional vulnerabilities are sensitized.
 
 To finish off this thought, I’ve realized that we can open ourselves to give love freely to all, but the more love we choose to invest, the more carefully we must filter for those people who can reciprocate consistently. This usually involves sharing abundant common ground on core values that involve our most vulnerable and sensitive areas. After all, I would want to be able to share anything and everything during dark times to find my light again, and that is often too difficult with those who disagree fundamentally on what that light encompasses. It seems fitting to come to this realization on love from my time in Paris, the City of Love and the City of Light.
+
+
+Porto
+
+Starting my series of photos from each city I’ve been to in my gap year so far, in no particular order, since the chaos of it all has been one of the best parts of it all. I’ll be including a little tidbit about experiences I enjoyed in each city. I’ve got lots of pics from the cities on my stories, so I’ll try to post more pics of me for my fans out here 🙄🥺
+
+
+As my uber driver put it as he visibly swelled with pride, “Porto is an amazing small big city. We’ve got subway, train, bus, to get you everywhere – restaurants, shops, bars, castles, cinemas, discotecas, hotels, views, waterfront…”
+
+
+I found his English to be incredible given that he’d lived in Porto all of his life – the eh’s and erm’s and the pauses in between as he searched for the right words in english seemed idiosyncratic in a pleasant way, imbuing more rather than taking away from his storytelling. His persistent manner of speech seemed to give away a great deal of confidence and tenacity.
+
+
+This matched up perfectly with his story of how he met his wife – by nearly crashing his car into hers on a bachelor’s trip to Madrid before his buddy’s wedding. He and his friends apologized and subsequently found out that his future wife and friends in the car were locals to the area who could show them around, and the rest is history. The way he made long distance work purely by calling on landline phone and then later by blazing his motorcycle from Porto to Madrid and back EVERY single weekend + parts of Fri/Mon (despite the concerned disapproval by his well-meaning father) showed a commitment to love over career mobility, family approval, and all else that touched my heart. And having spent a few days in Porto, I felt I could start to see where a romantic like him was coming from.

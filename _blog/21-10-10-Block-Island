@@ -17,4 +17,4 @@ gallery:
 
 ---
 
-{% include gallery %}
+{% include gallery layout="third" %}

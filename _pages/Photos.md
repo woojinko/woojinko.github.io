@@ -37,4 +37,4 @@ gallery:
   - image_path: assets/fun-photos/block-island/9.jpeg
   - image_path: assets/fun-photos/block-island/10.jpeg
 ---
-{% include gallery %}
+{% include gallery layout="third" %}

@@ -3,32 +3,32 @@ title: "Optimization and Manipulation of Contextual Mutual Spaces for Multi-User
 layout: splash
 excerpt: "Mohammad Keshavarzi, Allen Y Yang, Woojin Ko, Luisa Caldas"
 header:
-  #image: /assets/research/spacefind/cover-graphic.gif
-  teaser: /assets/research/spacefind/cover-graphic.gif
+  #image: /assets/projects/spacefind/cover-graphic.gif
+  teaser: /assets/projects/spacefind/cover-graphic.gif
 gallery:
-  - url: /assets/research/spacefind/furniture-2.png
-    image_path: assets/research/spacefind/furniture-2.png
+  - url: /assets/projects/spacefind/furniture-2.png
+    image_path: assets/projects/spacefind/furniture-2.png
     alt: "slide 1"
-  - url: /assets/research/spacefind/furniture-1.png
-    image_path: assets/research/spacefind/furniture-1.png
+  - url: /assets/projects/spacefind/furniture-1.png
+    image_path: assets/projects/spacefind/furniture-1.png
     alt: "slide 2"
-  - url: /assets/research/spacefind/furniture-3.png
-    image_path: assets/research/spacefind/furniture-3.png
+  - url: /assets/projects/spacefind/furniture-3.png
+    image_path: assets/projects/spacefind/furniture-3.png
     alt: "slide 3"
-  - url: /assets/research/spacefind/floor-rooms.png
-    image_path: assets/research/spacefind/floor-rooms.png
+  - url: /assets/projects/spacefind/floor-rooms.png
+    image_path: assets/projects/spacefind/floor-rooms.png
     alt: "slide 4"
-  - url: /assets/research/spacefind/floor-changes.gif
-    image_path: assets/research/spacefind/floor-changes.gif
+  - url: /assets/projects/spacefind/floor-changes.gif
+    image_path: assets/projects/spacefind/floor-changes.gif
     alt: "floor changes gif"
-  - url: /assets/research/spacefind/cover-graphic.gif
-    image_path: assets/research/spacefind/cover-graphic.gif
+  - url: /assets/projects/spacefind/cover-graphic.gif
+    image_path: assets/projects/spacefind/cover-graphic.gif
     alt: "spacefind graphic gif"
-  - url: /assets/research/spacefind/Hololens-2.gif
-    image_path: assets/research/spacefind/Hololens-2.gif
+  - url: /assets/projects/spacefind/Hololens-2.gif
+    image_path: assets/projects/spacefind/Hololens-2.gif
     alt: "hololens gif 2"
-  - url: /assets/research/spacefind/hololens_vis.png
-    image_path: assets/research/spacefind/hololens_vis.png
+  - url: /assets/projects/spacefind/hololens_vis.png
+    image_path: assets/projects/spacefind/hololens_vis.png
     alt: "hololens visualization"
 pdf_file: "/assets/pdf/Spacefind.pdf"
 ---

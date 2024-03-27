@@ -70,25 +70,31 @@ project-gallery:
     <img src="/assets/profile/cornell-tech-logo.png">
 </div>
 
+# About Me
 
-# Academic
+## Academic Summary
 
-## About Me
-
-I am a 2nd year PhD student in Computer Science at **[Cornell Tech](https://tech.cornell.edu)** ([Cornell University's](https://www.cs.cornell.edu) NYC graduate campus)
+I am a 2nd year PhD student in Computer Science at **[Cornell Tech](https://tech.cornell.edu)** ([Cornell University's](https://www.cs.cornell.edu) NYC graduate campus.
 
 I am advised by **[Prof. Shiri Azenkot](https://shiriazenkot.wixsite.com/shiri-azenkot)** in the **Enhancing Ability Lab**. I am also a member of the [XR Collaboratory](https://xr.cornell.edu/collaboratory).
 
 My current research in **human-computer interaction** focuses on the intersection of **extended / virtual / augmented reality (XR / VR / AR)** and **mental health + accessibility**. My past projects has spanned various application areas such as healthcare, music, and architecture.
 
-## Projects
+## Personal
+I am **anti-capitalist** + leftist + probably Communist + pro-Palestine + pro-union.
 
-### Gallery
+I self-identify with **neurodivergence** + cyclothymia (milder form of bipolar mood disorder / manic depression) + being on the autism spectrum (though I acknowledge my privilege of being able to mask much of my symptoms situationally for less-than-comfortable social / work settings) + comorbid depression + anxiety + chronic pain.
 
+I feel pretty **gender-fluid**, with very little gender dysphoria nowadays. I also acknowledge this privilege of being able to choose to mask situationally, in comparison to many trans / nonbinary folks who cannot do so. I do wish to explore gender expression and identity more in the coming future. 
+
+
+# Projects
+
+## Gallery
 
 {% include gallery layout="half" id="project-gallery"%}
 
-### Reflections
+## Reflections
 
 I feel grateful to be working in this space alongside like-minded
 collaborators towards what we hope can be meaningful social change. 
@@ -114,8 +120,8 @@ to nearly any social context, including the healthcare and accessibility
 settings I work in today. I hope to continue working on XR projects with 
 the aim of helping those in need or directly building up the skills to do so.
 
-## Previously...
-       
+# Previously
+
 Previously, I graduated from **UC Berkeley** with a B.S. in Electrical 
 Engineering and Computer Science as a member of the **[Berkeley EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors)**. I worked under the supervision of **[Prof. Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern)**
 in the **[Jacobs Institute for Design Innovation](https://jacobsinstitute.berkeley.edu)**, **[Prof. Luisa Caldas](https://ced.berkeley.edu/people/luisa-caldas)** in the **[XR Lab](https://xrlab.berkeley.edu)**, and **[Dr. Allen Yang](https://vivecenter.berkeley.edu/people/allen-y-yang)** in the **[FHL Vive Center for Enhanced Reality](https://vivecenter.berkeley.edu)**
@@ -126,3 +132,5 @@ I wanted to catch my breath and work on recuperating my mental health.
 I later interned as a technical exhibit designer at the 
 **[National Museum of Mathematics](https://momath.org)**.
 I was also fortunate enough to have the means to travel to various parts of the world.
+
+

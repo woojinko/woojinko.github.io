@@ -42,18 +42,29 @@ project-gallery:
     title: "Piano Palette"
 ---
 
-<html>
-    <style>
-        .logo-wrap {
-            width: 150px;
-            height: 200px;
-            float: right; 
-            margin-right: 20px;
-            margin-left: 10px;
-            margin-top: 50px;
-        }
-    </style>
-</html>
+
+<style>
+    .logo-wrap {
+        width: 150px;
+        height: 200px;
+        float: right; 
+        margin-right: 20px;
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+</style>
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G1EYLXGHXK"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-G1EYLXGHXK');
+    </script>
+</head>
 
 <div class="logo-wrap">
     <img src="/assets/profile/cornell-tech-logo.png">

@@ -9,7 +9,7 @@ toc_sticky: true   # enables sticky toc
 
 project-gallery:
   - url: /projects/
-    image_path: /assets/projects/adhd-autism-social-vr/flyer-cropped.png
+    image_path: /assets/projects/adhd-autism-social-vr/flyer-border.png
     alt: "adhd-autism-social-vr"
     title: "ADHD autism social VR"
   - url: /projects/

@@ -72,7 +72,7 @@ project-gallery:
 
 # About Me
 
-## Academic Summary
+## Academic
 
 I am a 2nd year PhD student in Computer Science at **[Cornell Tech](https://tech.cornell.edu)** ([Cornell University's](https://www.cs.cornell.edu) NYC graduate campus.
 

@@ -171,10 +171,16 @@ $left-sidebar-width-narrow: 200px !default;
 $left-sidebar-width: 300px !default;
 $left-sidebar-width-wide: 200px !default;
 
-$right-sidebar-width-narrow: 125px !default;
-$right-sidebar-width-medium: 150px !default;
-$right-sidebar-width: 175px !default;
-$right-sidebar-width-wide: 200px !default;
+
+$right-sidebar-width-narrow: 0px !default;
+$right-sidebar-width-medium: 0px !default;
+$right-sidebar-width: 0px !default;
+$right-sidebar-width-wide: 0px !default;
+
+// $right-sidebar-width-narrow: 125px !default;
+// $right-sidebar-width-medium: 150px !default;
+// $right-sidebar-width: 175px !default;
+// $right-sidebar-width-wide: 200px !default;
 
 /*
    Other

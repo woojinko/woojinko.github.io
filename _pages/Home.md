@@ -2,10 +2,10 @@
 layout: single
 author_profile: true
 permalink: /
-toc: true
-toc_label: "Contents" # default: Content
-toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
-toc_sticky: true   # enables sticky toc
+# toc: true
+# toc_label: "Contents" # default: Content
+# toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+# toc_sticky: true   # enables sticky toc
 
 project-gallery:
   - url: /projects/

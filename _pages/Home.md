@@ -50,7 +50,7 @@ project-gallery:
     }
     .right-logo-wrap {
         width: 150px;
-        height: 150px;
+        height: 180px;
         float: right; 
         margin-right: 20px;
         margin-left: 10px;
@@ -71,11 +71,11 @@ project-gallery:
 
 # About Me
 
-## Personal
-
 <div class="right-logo-wrap">
     <img src="/assets/profile/free-palestine.png">
 </div>
+
+## Personal
 
 I am a **leftist, anti-capitalist, and probably communist**.
 

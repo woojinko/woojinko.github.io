@@ -3,9 +3,11 @@ title: "OpenARK – Tackling Augmented Reality Challenges via an Open-Source SDK
 layout: splash
 excerpt: "Joseph Menke, Woojin Ko, Allen Y Yang"
 header:
-  #image: /assets/projects/openark/cover-conference.jpg
-  teaser: /assets/projects/openark/cover-conference.jpg
+  teaser: /assets/projects/openark/openark-opener.png
 gallery:
+  - url: /assets/projects/openark/openark-opener.png
+    image_path: /assets/projects/openark/openark-opener.png
+    alt: "openark-opener"
   - url: /assets/projects/openark/cover-conference.jpg
     image_path: /assets/projects/openark/cover-conference.jpg
     alt: "cover-conference"

@@ -17,7 +17,7 @@ project-gallery:
     alt: "spacefind"
     title: "SpaceFind"
   - url: /projects/
-    image_path: /assets/projects/openark/cover-conference.jpg
+    image_path: /assets/projects/openark/openark-opener.png
     alt: "openark"
     title: "OpenARK"
   - url: /projects/
@@ -89,7 +89,7 @@ I feel pretty **gender-fluid** nowadays. In my explorations of gender identity a
 
 ## Academic
 
-<div class="left-logo-wrap">
+<div class="right-logo-wrap">
     <img src="/assets/profile/cornell-tech-logo.png">
 </div>
 

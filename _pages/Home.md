@@ -2,10 +2,6 @@
 layout: single
 author_profile: true
 permalink: /
-# toc: true
-# toc_label: "Contents" # default: Content
-# toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc
 
 project-gallery:
   - url: /projects/
@@ -44,13 +40,20 @@ project-gallery:
 
 
 <style>
-    .logo-wrap {
+    .left-logo-wrap {
+          width: 150px;
+          height: 200px;
+          float: left; 
+          margin-right: 20px;
+          margin-left: 10px;
+          margin-top: 30px;
+    }
+    .right-logo-wrap {
         width: 150px;
-        height: 200px;
+        height: 150px;
         float: right; 
         margin-right: 20px;
         margin-left: 10px;
-        margin-top: 50px;
     }
 </style>
 
@@ -66,26 +69,35 @@ project-gallery:
     </script>
 </head>
 
-<div class="logo-wrap">
-    <img src="/assets/profile/cornell-tech-logo.png">
+# About Me
+
+## Personal
+
+<div class="right-logo-wrap">
+    <img src="/assets/profile/free-palestine.png">
 </div>
 
-# About Me
+I am a **leftist, anti-capitalist, and probably communist**.
+
+I support the **Palestinian fight for liberation** against the Israeli occupation and genocide in Gaza.
+
+I advocate strongly for **labor rights**. I currently organize for **Cornell's Graduate Student Union**.
+
+I am **neurodivergent**. My **cyclothymia** (mood disorder) manifests itself in frequent depressive episodes beyond my control. I self-identify with **autism spectrum disorder** (ASD). With the help of therapy, medication, and time, I have found ways to situationally mask many of my ASD symptoms. I acknowledge that this gives me a great deal of **privilege** relative to many other autistic folks, especially in social and work settings. Meanwhile, I continue to deal regularly with symptoms of **co-morbid depression, anxiety, and chronic pain**.
+
+I feel pretty **gender-fluid** nowadays. In my explorations of gender identity and expression, I have found that I can take things slowly, at my own pace, without feeling much gender dysphoria. I acknowledge that this also gives me a great deal of **privilege**, relative to many trans / nonbinary folks, since I can easily express as a cisgender man in preparation for potentially hostile environments to avoid microaggressions, abuse, etc.
 
 ## Academic
 
-I am a 2nd year PhD student in Computer Science at **[Cornell Tech](https://tech.cornell.edu)** ([Cornell University's](https://www.cs.cornell.edu) NYC graduate campus.
+<div class="left-logo-wrap">
+    <img src="/assets/profile/cornell-tech-logo.png">
+</div>
 
-I am advised by **[Prof. Shiri Azenkot](https://shiriazenkot.wixsite.com/shiri-azenkot)** in the **Enhancing Ability Lab**. I am also a member of the [XR Collaboratory](https://xr.cornell.edu/collaboratory).
+I am a **2nd year PhD student** in **Computer Science** at **Cornell Tech** (Cornell's NYC graduate campus).
 
-My current research in **human-computer interaction** focuses on the intersection of **extended / virtual / augmented reality (XR / VR / AR)** and **mental health + accessibility**. My past projects has spanned various application areas such as healthcare, music, and architecture.
+I am advised by [Prof. Shiri Azenkot](https://shiriazenkot.wixsite.com/shiri-azenkot) in the **Enhancing Ability Lab**. I am also a member of the [XR Collaboratory](https://xr.cornell.edu/collaboratory).
 
-## Personal
-I am **anti-capitalist** + leftist + probably Communist + pro-Palestine + pro-union.
-
-I self-identify with **neurodivergence** + cyclothymia (milder form of bipolar mood disorder / manic depression) + being on the autism spectrum (though I acknowledge my privilege of being able to mask much of my symptoms situationally for less-than-comfortable social / work settings) + comorbid depression + anxiety + chronic pain.
-
-I feel pretty **gender-fluid**, with very little gender dysphoria nowadays. I also acknowledge this privilege of being able to choose to mask situationally, in comparison to many trans / nonbinary folks who cannot do so. I do wish to explore gender expression and identity more in the coming future. 
+My current research in **human-computer interaction** focuses on the intersection of extended /virtual / augmented reality **(XR / VR / AR)** and **mental health + accessibility**. My past projects have spanned various application areas such as healthcare, music, and architecture.
 
 
 # Projects
@@ -95,6 +107,8 @@ I feel pretty **gender-fluid**, with very little gender dysphoria nowadays. I al
 {% include gallery layout="half" id="project-gallery"%}
 
 ## Reflections
+<!-- 
+acknowledge my privilege in being able to mask many of my ASD symptoms situationally in social and work environments where we are expected to conform to neurotypical standards). -->
 
 I feel grateful to be working in this space alongside like-minded
 collaborators towards what we hope can be meaningful social change. 
@@ -123,8 +137,8 @@ the aim of helping those in need or directly building up the skills to do so.
 # Previously
 
 Previously, I graduated from **UC Berkeley** with a B.S. in Electrical 
-Engineering and Computer Science as a member of the **[Berkeley EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors)**. I worked under the supervision of **[Prof. Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern)**
-in the **[Jacobs Institute for Design Innovation](https://jacobsinstitute.berkeley.edu)**, **[Prof. Luisa Caldas](https://ced.berkeley.edu/people/luisa-caldas)** in the **[XR Lab](https://xrlab.berkeley.edu)**, and **[Dr. Allen Yang](https://vivecenter.berkeley.edu/people/allen-y-yang)** in the **[FHL Vive Center for Enhanced Reality](https://vivecenter.berkeley.edu)**
+Engineering and Computer Science as a member of the [Berkeley EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors). I worked under the supervision of [Prof. Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern)
+in the [Jacobs Institute for Design Innovation](https://jacobsinstitute.berkeley.edu), [Prof. Luisa Caldas](https://ced.berkeley.edu/people/luisa-caldas) in the [XR Lab](https://xrlab.berkeley.edu), and [Dr. Allen Yang](https://vivecenter.berkeley.edu/people/allen-y-yang) in the [FHL Vive Center for Enhanced Reality](https://vivecenter.berkeley.edu)
 
 After finishing my undergraduate in 2021, I deferred 
 my PhD admission to take a gap year. Post COVID burnout, 

@@ -160,7 +160,7 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$x-x-large: 1480px !default;
+$x-x-large: 1880px !default;
 $max-width: $x-x-large !default;
 
 /*
@@ -173,9 +173,9 @@ $left-sidebar-width-wide: 200px !default;
 
 
 $right-sidebar-width-narrow: 0px !default;
-$right-sidebar-width-medium: 0px !default;
-$right-sidebar-width: 0px !default;
-$right-sidebar-width-wide: 0px !default;
+$right-sidebar-width-medium: 30px !default;
+$right-sidebar-width: 30px !default;
+$right-sidebar-width-wide: 30px !default;
 
 // $right-sidebar-width-narrow: 125px !default;
 // $right-sidebar-width-medium: 150px !default;

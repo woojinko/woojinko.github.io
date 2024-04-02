@@ -3,8 +3,8 @@
    ========================================================================== */
 
 /* Colors */
-$gradient-color: linear-gradient(90deg, #b2fefa, #0ed2f7);
 // $gradient-color: linear-gradient(90deg, #b2fefa, #0ed2f7, #0eb1f7);
+$gradient-color: linear-gradient(45deg, rgba(255,126,166,0.75) 0%, rgba(255,126,212,0.75) 10%, rgba(231,125,255,0.75) 20%, rgba(187,117,255,0.75) 30%, rgba(130,115,255,0.75) 40%, rgba(117,146,254,0.75) 50%, rgba(101,182,253,0.75) 60%, rgba(116,209,255,0.75) 70%, rgba(116,241,255,0.75) 80%, rgba(116,255,238,0.75) 90%, rgba(116,255,187,0.75) 100%);
 $background-color: $gradient-color;
 $sidebar-color: transparent;
 $text-color: #000000 !default;

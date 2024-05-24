@@ -83,9 +83,9 @@ I support the **Palestinian fight for liberation** against the Israeli occupatio
 
 I advocate strongly for **labor rights**. I currently organize for **Cornell's Graduate Student Union**.
 
-I am **neurodivergent**. My **cyclothymia** (mood disorder) manifests itself in frequent depressive episodes beyond my control. I self-identify with **autism spectrum disorder** (ASD). With the help of therapy, medication, and time, I have found ways to situationally mask many of my ASD symptoms. I acknowledge that this gives me a great deal of **privilege** relative to many other autistic folks, especially in social and work settings. Meanwhile, I continue to deal regularly with symptoms of **co-morbid depression, anxiety, and chronic pain**.
+I identify with **neurodivergence**. My **cyclothymia** (mood disorder) manifests itself in cyclical episodes of depression and hypomania, usually beyond my control. I also self-identify with **autism spectrum disorder** (ASD). Through years of therapy, medication, and self-reflection, I have found ways to mask many of my autism-related social behaviors situationally. I acknowledge that this gives me a great deal of **privilege relative to many other autistic folks**, especially in work environments and other social settings that lack thoughtful accommodations. Meanwhile, I continue to regularly deal with co-morbid symptoms of **depression, anxiety, and chronic pain**; masking as neurotypical often intensifies these symptoms for me over time.
 
-I feel pretty **gender-fluid** nowadays. In my explorations of gender identity and expression, I have found that I can take things slowly, at my own pace, without feeling much gender dysphoria. I acknowledge that this also gives me a great deal of **privilege**, relative to many trans / nonbinary folks, since I can easily express as a cisgender man in preparation for potentially hostile environments to avoid microaggressions, abuse, etc.
+I feel pretty **gender-fluid** nowadays. In my explorations of gender identity and expression, I have found that I can take things slowly, at my own pace, without feeling much gender dysphoria. I acknowledge that this also gives me a great deal of **privilege relative to many trans / nonbinary folks**, since I can easily express as a cisgender man in unsafe environments to avoid microaggressions, abuse, etc.
 
 ## Academic
 

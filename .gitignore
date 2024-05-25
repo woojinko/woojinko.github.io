@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 *.mp4
+.lock

@@ -132,6 +132,7 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
+    
 
 # Site Footer
 footer:

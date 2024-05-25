@@ -1,4 +1,4 @@
-<!-- 
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -30,7 +30,7 @@
         </p>
         <!-- <div class="logo-wrap">
             <img src="/assets/profile/cornell-tech-logo.png">
-        </div> -->
+        </div>
         <p>
             My current research in <b>human-computer interaction</b> focuses on the 
             intersection of <b>extended / virtual / augmented reality (XR / VR / AR)</b> and <b>mental health 

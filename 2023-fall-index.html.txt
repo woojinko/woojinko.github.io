@@ -1,0 +1,88 @@
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            h1 {text-align: left;}
+            p {text-align: left;}
+            div {text-align: left;}
+            .logo-wrap {
+                width: 80px;
+                height: 80px;
+                float: right; 
+                margin: 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="logo-wrap">
+            <img src="/assets/profile/cornell-tech-logo.png">
+        </div>
+        <p>
+            I am a 2nd year PhD student in Computer Science at <a href=https://tech.cornell.edu>Cornell Tech</a> 
+            <a href=https://www.cs.cornell.edu>Cornell University</a>. 
+        </p>
+        <p>
+            I am advised by <a href=https://shiriazenkot.wixsite.com/shiri-azenkot>Prof. Shiri Azenkot</a> 
+            in the <b>Enhancing Ability Lab</b>. I am also a member of the
+            <a href=https://xr.cornell.edu/collaboratory><b>XR Collaboratory</b></a>.    
+        </p>
+        <!-- <div class="logo-wrap">
+            <img src="/assets/profile/cornell-tech-logo.png">
+        </div>
+        <p>
+            My current research in <b>human-computer interaction</b> focuses on the 
+            intersection of <b>extended / virtual / augmented reality (XR / VR / AR)</b> and <b>mental health 
+            + accessibility</b>. My past research has spanned various application areas such as healthcare, 
+            music, and architecture.
+        </p>
+        <p>
+            I feel grateful to be working in this space alongside like-minded
+            collaborators towards what we hope can be meaningful social change. 
+            Yet I have learned to feel even more gratitude for people who see 
+            things differently, those who cannot help but express surprise, doubt, 
+            fear, worry, or criticism in the face of this research field. After all, 
+            XR has become largely synonymous with the metaverse and other dystopian 
+            visions of late-stage capitalism. I resonate with the opinion that big tech
+            companies and leadership in recent years have done little to inspire 
+            hope in collective good, social safety nets, or prioritization of people 
+            over profits. I deeply admire those who refuse to just idolize modern day 
+            technology. We cannot let "innovation" whitewash or excacerbate the troubling 
+            flaws in our current exploitative systems that continue to fail vulnerable populations.
+        </p>
+        <p>
+            At the same time, I try to remind myself how XR and technology 
+            can allure us with the hope of a better future. For example,
+            I love how XR can blend the physical and virtual worlds of its users, 
+            enabling immersive social interaction and expressive collaboration. 
+            I appreciate that XR interfaces exist in the same 
+            3D world as us, making digital technology more intuitive and natural 
+            for us to use. I enjoy the interdisciplinary nature of XR; it can extend 
+            to nearly any social context, including the healthcare and accessibility 
+            settings I work in today. I hope to continue working on XR projects with 
+            the aim of helping those in need or directly building up the skills to do so.
+        </p>   
+        <p>
+            Previously, I graduated from UC Berkeley with a B.S. in Electrical 
+            Engineering and Computer Science as a member of the
+            <a href=https://eecs.berkeley.edu/resources/undergrads/honors>
+            Berkeley EECS Honors Program</a>. I worked under the supervision of 
+            <a href=https://people.eecs.berkeley.edu/~bjoern>Prof. Bjoern Hartmann</a> 
+            in the <a href=https://jacobsinstitute.berkeley.edu><b>Jacobs Institute 
+            for Design Innovation</b></a>, <a href=https://ced.berkeley.edu/people/luisa-caldas>
+            Prof. Luisa Caldas</a> in the <a href=https://xrlab.berkeley.edu><b>XR Lab</b></a>, 
+            and <a href=https://vivecenter.berkeley.edu/people/allen-y-yang>
+            Dr. Allen Yang</a> in the <a href=https://vivecenter.berkeley.edu><b>
+            FHL Vive Center for Enhanced Reality</b></a>.
+        </p>
+        <p>
+            After finishing my undergraduate in 2021, I deferred 
+            my PhD admission to take a gap year. Post COVID burnout, 
+            I wanted to catch my breath and work on recuperating my mental health. 
+            I later interned as a technical exhibit designer at the 
+            <a href=https://momath.org><b>National Museum of Mathematics</b></a>.
+            I was also fortunate enough to have the means to travel to various parts of the world.
+        </p>
+    </body>
+</html> -->

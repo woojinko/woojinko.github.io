@@ -25,7 +25,7 @@ project-gallery:
     alt: "head-in-the-clouds"
     title: "Head in the Clouds"
   - url: /projects/
-    image_path: /assets/projects/ar-videoquery/cover-interface.jpg
+    image_path: /assets/projects/ar-videoquery/cover-unity.jpg
     alt: "ar-video-query"
     title: "AR-Video Query"
   - url: /projects/

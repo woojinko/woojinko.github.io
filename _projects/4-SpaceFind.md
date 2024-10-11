@@ -1,7 +1,7 @@
 ---
 title: "Optimization and Manipulation of Contextual Mutual Spaces for Multi-User Virtual and Augmented Reality Interaction (Paper at IEEE VR 2020)"
 layout: splash
-excerpt: "Mohammad Keshavarzi, Allen Y Yang, Woojin Ko, Luisa Caldas"
+excerpt: ""
 header:
   #image: /assets/projects/spacefind/cover-graphic.gif
   teaser: /assets/projects/spacefind/cover-graphic.gif

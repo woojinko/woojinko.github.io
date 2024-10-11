@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Woojin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Woojin Ko (he/they)"
+name                     : "Woojin Ko (they/them)"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ author:
   name             : "Woojin Ko (they/them)"
   avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
-  email            : "woojinko@cs.cornell.edu"
+  email            : "woojinko99@gmail.com"
   linkedin         : "woojin-ko"
   links:
     - label: "GitHub"

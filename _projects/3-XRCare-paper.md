@@ -1,7 +1,7 @@
 ---
 title: "Opportunities and Challenges for Augmented Reality in Family Caregiving: Qualitative Video Elicitation Study (Journal Paper at JMIR 2024)"
 layout: splash
-excerpt: "Liam Albright, Woojin Ko, Meyhaa Buvanesh, Harald Haraldsson, Fernanda Polubriaginof, Gilad Kuperman, Michelle Levy, Madeline Sterling, Nicola Dell, Deborah Estrin"
+excerpt: ""
 header:
   # image: /assets/projects/xrcare-paper/cover-photo.png
   teaser: /assets/projects/xrcare-paper/cover-photo.png

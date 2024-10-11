@@ -1,7 +1,7 @@
 ---
 title: "OpenARK – Tackling Augmented Reality Challenges via an Open-Source SDK (Tutorial Workshop at ISMAR 2019)"
 layout: splash
-excerpt: "Joseph Menke, Woojin Ko, Allen Y Yang"
+excerpt: ""
 header:
   teaser: /assets/projects/openark/openark-opener.png
 gallery:

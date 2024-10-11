@@ -1,7 +1,7 @@
 ---
 title: "XR Care Demo (Cornell Tech Open Studio 2023)"
 layout: splash
-excerpt: "Woojin Ko, Liam Albright, Harald Haraldsson, Deborah Estrin"
+excerpt: ""
 header:
   #image: /assets/projects/xrcare/cover-photo.png
   teaser: /assets/projects/xrcare/cover-video.gif

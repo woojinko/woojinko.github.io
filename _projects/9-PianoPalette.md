@@ -1,7 +1,7 @@
 ---
 title: "Piano Palette: Designing Real-Time Piano Mobile AR Music Visualization Of Various Musical Moods (Jacobs Institute Innovation Catalysts Spark Grant Winner 2020)"
 layout: splash
-excerpt: "Edward H, Woojin K, Josh M, Ellen N, Umang S, Clarissa W"
+excerpt: ""
 header:
   #image: /assets/projects/pianopalette/cover-screenshot.jpg
   teaser: /assets/projects/pianopalette/cover-screenshot.jpg

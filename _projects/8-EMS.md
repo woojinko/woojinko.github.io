@@ -1,7 +1,7 @@
 ---
 title: "EMS VR: Enhancing VR Experience Through Electrical Muscle Stimulation System (VR Grad Capstone 2019)"
 layout: splash
-excerpt: "James Smith, Woojin Ko, Bjoern Hartmann"
+excerpt: ""
 header:
   #image: /assets/projects/ems/cover-group.jpg
   teaser: /assets/projects/ems/cover-group.jpg

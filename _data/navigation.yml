@@ -4,7 +4,7 @@ main:
     url: /projects/
   - title: "CV"
     url: /cv/
-  - title: "Photos"
-    url: /fun-photos/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Photos"
+  #   url: /fun-photos/
+  # - title: "Blog"
+  #   url: /blog/

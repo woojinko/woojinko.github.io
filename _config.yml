@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woojin Ko (they/them)"
+  name             : "Woojin Ko (they/he)"
   avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
   email            : "woojinko99@gmail.com"
@@ -130,9 +130,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  blog:
-    output: true
-    permalink: /:collection/:path/
+  # blog:
+  #   output: true
+  #   permalink: /:collection/:path/
     
 
 # Site Footer

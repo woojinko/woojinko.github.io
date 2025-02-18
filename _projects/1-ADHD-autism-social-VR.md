@@ -1,11 +1,22 @@
 ---
-title: "ADHD / Autism + Social VR (WIP)"
+title: "Exploring the Accessibility of Social Virtual Reality for People with ADHD and Autism: Preliminary Insights (Paper at ASSETS 2024)"
 layout: splash
 excerpt: ""
 header:
   image: /assets/projects/adhd-autism-social-vr/flyer.png
-  teaser: /assets/projects/adhd-autism-social-vr/flyer-border.png
+  teaser: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
+gallery:
+  - url: /assets/projects/adhd-autism-social-vr/gatsbys-bar.png
+    image_path: assets/projects/adhd-autism-social-vr/gatsbys-bar.png
+    alt: "gatsby's bar"
+  - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
+    image_path: assets/projects/adhd-autism-social-vr/horizon-worlds.png
+    alt: "gatsby's bar"
+pdf_file: "/assets/pdf/ADHD-autism-social-VR.pdf"
 ---
 
 
+{% include gallery %}
+
+{% pdf {{ page.pdf_file }} %}
 

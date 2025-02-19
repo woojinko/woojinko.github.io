@@ -3,7 +3,7 @@ title: "Opportunities and Challenges for Augmented Reality in Family Caregiving:
 layout: splash
 excerpt: ""
 header:
-  # image: /assets/projects/xrcare-paper/cover-photo.png
+  image: /assets/projects/xrcare-paper/cover-photo.png
   teaser: /assets/projects/xrcare-paper/cover-photo.png
 pdf_file: "/assets/pdf/xrcare-paper.pdf"
 

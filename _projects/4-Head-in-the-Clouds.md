@@ -1,5 +1,5 @@
 ---
-title: "Head in the Clouds (3D User Interfaces Final 2023)"
+title: "Head in the Clouds (3D User Interfaces Project 2023)"
 layout: splash
 excerpt: ""
 header:

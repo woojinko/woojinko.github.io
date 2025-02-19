@@ -3,7 +3,7 @@ title: "XR Care Demo (Cornell Tech Open Studio 2023)"
 layout: splash
 excerpt: ""
 header:
-  #image: /assets/projects/xrcare/cover-photo.png
+  image: /assets/projects/xrcare/cover-video.gif
   teaser: /assets/projects/xrcare/cover-video.gif
 ---
 

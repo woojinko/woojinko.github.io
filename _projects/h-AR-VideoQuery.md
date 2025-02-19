@@ -1,5 +1,5 @@
 ---
-title: "(2021 UC Berkeley EECS Honors Senior Thesis) AR-Video Query: Spatio-Temporal IPhone Video Data Queries"
+title: "(2021 UC Berkeley EECS Honors Senior Thesis) AR-Video Query: Spatio-Temporal iPhone Video Data Queries"
 layout: splash
 excerpt: ""
 header:

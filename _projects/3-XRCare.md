@@ -1,5 +1,5 @@
 ---
-title: "XR Care Demo (Cornell Tech Open Studio 2023)"
+title: "XR Care Demo (Cornell Tech Open Studio Showcase 2023)"
 layout: splash
 excerpt: ""
 header:

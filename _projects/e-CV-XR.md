@@ -16,5 +16,10 @@ gallery:
     image_path: /assets/projects/cv-xr/woundSAM.png
     alt: "wound SAM"
 ---
+inspiration: 
+
+https://github.com/keijiro/TinyYOLOv2Barracuda
+
+https://localjoost.github.io/HoloLens-AI-using-Yolo-ONNX-models-to-localize-objects-in-3D-space/
 
 {% include gallery %}

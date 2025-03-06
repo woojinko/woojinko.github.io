@@ -3,8 +3,8 @@ title: "(2019 VR Graduate Class Capstone) EMS VR: Enhancing VR Experience Throug
 layout: splash
 excerpt: ""
 header:
-  #image: /assets/projects/ems/cover-group.jpg
-  teaser: /assets/projects/ems/cover-group.jpg
+  image: /assets/projects/ems/ems-demo.gif
+  teaser: /assets/projects/ems/ems-demo.gif
 gallery:
   - url: /assets/projects/ems/scene.jpg
     image_path: /assets/projects/ems/scene.png

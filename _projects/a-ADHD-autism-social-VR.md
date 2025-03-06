@@ -3,8 +3,8 @@ title: "(2024 ASSETS Paper) Exploring the Accessibility of Social Virtual Realit
 layout: splash
 excerpt: ""
 header:
-  # image: /assets/projects/adhd-autism-social-vr/flyer.png
-  teaser: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
+  image: /assets/projects/adhd-autism-social-vr/youtube.gif
+  teaser: /assets/projects/adhd-autism-social-vr/youtube.gif
 gallery:
   - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
     image_path: assets/projects/adhd-autism-social-vr/horizon-worlds.png
@@ -19,6 +19,7 @@ gallery:
 pdf_file: "/assets/pdf/ADHD-autism-social-VR.pdf"
 ---
 
+DISCLAIMER: This video clip is just to showcase Horizon Worlds VR gameplayfrom a publicly available YouTube video - https://www.youtube.com/watch?v=on7LV70yJ9c - NOT from the participants' private recording data.
 
 {% include gallery %}
 

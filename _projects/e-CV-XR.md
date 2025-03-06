@@ -1,5 +1,5 @@
 ---
-title: "(2023) Computer Vision / AI Experiments in XR"
+title: "(2023) Computer Vision / AI Experiments in Augmented Reality"
 layout: splash
 excerpt: ""
 header:

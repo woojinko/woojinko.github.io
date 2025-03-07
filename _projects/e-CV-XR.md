@@ -3,8 +3,8 @@ title: "(2023) Computer Vision / AI Experiments in Augmented Reality"
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/cv-xr/yolo-holo.gif
-  teaser: /assets/projects/cv-xr/yolo-holo.gif
+  image: /assets/projects/cv-xr/image.gif
+  teaser: /assets/projects/cv-xr/teaser.gif
 gallery:
   - url: /assets/projects/cv-xr/avatars.gif
     image_path: /assets/projects/cv-xr/avatars.gif

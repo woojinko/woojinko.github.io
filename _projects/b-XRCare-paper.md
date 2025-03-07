@@ -3,8 +3,8 @@ title: "(2024 JMIR Journal Paper) Opportunities and Challenges for Augmented Rea
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/xrcare-paper/chest-stretch.gif
-  teaser: /assets/projects/xrcare-paper/chest-stretch.gif
+  image: /assets/projects/xrcare-paper/image.gif
+  teaser: /assets/projects/xrcare-paper/teaser.gif
 gallery:
   - url: /assets/projects/xrcare-paper/screenshot2.jpg
     image_path: /assets/projects/xrcare-paper/screenshot2.jpg

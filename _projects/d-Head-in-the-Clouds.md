@@ -3,8 +3,8 @@ title: "(2023) 3D User Interfaces Final Project - Head in the Clouds"
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/head-in-the-clouds/cover-video.gif
-  teaser: /assets/projects/head-in-the-clouds/cover-video.gif
+  image: /assets/projects/head-in-the-clouds/image.gif
+  teaser: /assets/projects/head-in-the-clouds/teaser.gif
 ---
 
 <!-- {% include gallery %} -->

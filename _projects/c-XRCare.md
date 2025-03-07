@@ -3,8 +3,8 @@ title: "(2023 Cornell Tech Open Studio Showcase) XRCare Hololens 2 Demo"
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/xrcare/cover-video.gif
-  teaser: /assets/projects/xrcare/cover-video.gif
+  image: /assets/projects/xrcare/image.gif
+  teaser: /assets/projects/xrcare/teaser.gif
 ---
 
 

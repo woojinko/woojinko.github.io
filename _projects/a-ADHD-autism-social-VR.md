@@ -3,8 +3,8 @@ title: "(2024 ASSETS Paper) Exploring the Accessibility of Social Virtual Realit
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/adhd-autism-social-vr/youtube.gif
-  teaser: /assets/projects/adhd-autism-social-vr/youtube.gif
+  image: /assets/projects/adhd-autism-social-vr/image.gif
+  teaser: /assets/projects/adhd-autism-social-vr/teaser.gif
 gallery:
   - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
     image_path: assets/projects/adhd-autism-social-vr/horizon-worlds.png

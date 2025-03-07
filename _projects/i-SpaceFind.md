@@ -3,8 +3,8 @@ title: "(2020 IEEE VR Paper) Optimization and Manipulation of Contextual Mutual 
 layout: splash
 excerpt: ""
 header:
-  #image: /assets/projects/spacefind/cover-graphic.gif
-  teaser: /assets/projects/spacefind/cover-graphic.gif
+  image: /assets/projects/spacefind/image.gif
+  teaser: /assets/projects/spacefind/teaser.gif
 gallery:
   - url: /assets/projects/spacefind/furniture-2.png
     image_path: assets/projects/spacefind/furniture-2.png

@@ -3,8 +3,8 @@ title: "(2021 UC Berkeley EECS Honors Senior Thesis) AR-Video Query: Spatio-Temp
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/ar-videoquery/demo.gif
-  teaser: /assets/projects/ar-videoquery/demo.gif
+  image: /assets/projects/ar-videoquery/image.gif
+  teaser: /assets/projects/ar-videoquery/teaser.gif
 gallery:
   - url: /assets/projects/ar-videoquery/cover-interface.jpg
     image_path: /assets/projects/ar-videoquery/cover-interface.jpg

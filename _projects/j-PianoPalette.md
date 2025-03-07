@@ -3,8 +3,8 @@ title: "(2020 Jacobs Institute Innovation Catalysts Spark Grant Winner) Piano Pa
 layout: splash
 excerpt: ""
 header:
-  #image: /assets/projects/pianopalette/cover-screenshot.jpg
-  teaser: /assets/projects/pianopalette/cover-screenshot.jpg
+  image: /assets/projects/pianopalette/demo.gif
+  teaser: /assets/projects/pianopalette/demo.gif
 pdf_file: "/assets/pdf/pp-deck.pdf"
 
 ---

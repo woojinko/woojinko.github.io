@@ -8,6 +8,7 @@ pdf_file2: "/assets/pdf/Resume_2025_VR.pdf"
 pdf_file3: "/assets/pdf/Resume_2025_Software.pdf"
 ---
 
+
 {% pdf {{ page.pdf_file }} %}
 {% pdf {{ page.pdf_file2 }} %}
 {% pdf {{ page.pdf_file3 }} %}

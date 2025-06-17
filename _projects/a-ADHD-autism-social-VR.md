@@ -3,7 +3,7 @@ title: "(2025 CHI Paper) Shifting the Focus: Exploring Video Accessibility Strat
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/adhd-autism-social-vr/image.png
+  image: /assets/projects/shifting-the-focus/image.png
   # teaser: /assets/projects/adhd-autism-social-vr/teaser.png
 # gallery:
 #   - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png

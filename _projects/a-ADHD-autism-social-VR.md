@@ -1,25 +1,17 @@
 ---
-title: "(2024 ASSETS Paper) Exploring the Accessibility of Social Virtual Reality for People with ADHD and Autism: Preliminary Insights "
+title: "(2025 CHI Paper) Shifting the Focus: Exploring Video Accessibility Strategies and Challenges for People with ADHD "
 layout: splash
 excerpt: ""
 header:
-  image: /assets/projects/adhd-autism-social-vr/image.gif
-  teaser: /assets/projects/adhd-autism-social-vr/teaser.gif
-gallery:
-  - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
-    image_path: assets/projects/adhd-autism-social-vr/horizon-worlds.png
-    alt: "gatsby's bar"
-  - url: /assets/projects/adhd-autism-social-vr/flyer.png
-    image_path: assets/projects/adhd-autism-social-vr/flyer.png
-    alt: "recruitment flyer"
-  - url: /assets/projects/adhd-autism-social-vr/gatsbys-bar.png
-    image_path: assets/projects/adhd-autism-social-vr/gatsbys-bar.png
-    alt: "gatsby's bar"
+  image: /assets/projects/adhd-autism-social-vr/image.png
+  # teaser: /assets/projects/adhd-autism-social-vr/teaser.png
+# gallery:
+#   - url: /assets/projects/adhd-autism-social-vr/horizon-worlds.png
+#     image_path: assets/projects/adhd-autism-social-vr/horizon-worlds.png
+#     alt: "gatsby's bar"
 
-pdf_file: "/assets/pdf/ADHD-autism-social-VR.pdf"
+pdf_file: "/assets/pdf/CHI25-ADHDVideo.pdf"
 ---
-
-DISCLAIMER: This video clip is just to showcase Horizon Worlds VR gameplayfrom a publicly available YouTube video - https://www.youtube.com/watch?v=on7LV70yJ9c - NOT from the participants' private recording data.
 
 {% include gallery %}
 

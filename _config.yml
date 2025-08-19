@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woojin Ko (they/he)"
+  name             : "Woojin Ko (they/she/he)"
   avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
-  email            : "woojinko99@gmail.com"
+  email            : "woojin.ko.career@gmail.com"
   linkedin         : "woojin-ko"
   links:
     - label: "GitHub"

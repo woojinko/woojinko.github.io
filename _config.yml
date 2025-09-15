@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -105,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woojin Ko (they/them)"
+  name             : "Woojin Ko (they/she/he)"
   avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
-  email            : "woojinko99@gmail.com"
+  email            : "woojin.ko.career@gmail.com"
   linkedin         : "woojin-ko"
   links:
     - label: "GitHub"
@@ -130,9 +131,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  blog:
-    output: true
-    permalink: /:collection/:path/
+  # blog:
+  #   output: true
+  #   permalink: /:collection/:path/
     
 
 # Site Footer

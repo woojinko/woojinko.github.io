@@ -9,7 +9,7 @@ header:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66rnFt1UTXY?si=Rue8NPgohVruqZKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-April - May 2025. This retro-style Donkey Kong arcade game remake was developed in collaboration with Bravo Media NYC for the KPMNG 2025 Tax Carnival, utilizing Unity and Photoshop for rapid prototyping and development. The game includes messages and lessons about taxes.
+This retro-style Donkey Kong arcade game remake was developed in collaboration with Bravo Media NYC for the KPMNG 2025 Tax Carnival, utilizing Unity and Photoshop for rapid prototyping and development. The game includes messages and lessons about taxes.
 
 <!-- ## Instagram Reel
 

@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Woojin Ko (they/she/he)"
+  name             : "Woojin Ko"
   avatar           : "/assets/profile/profile.jpg"
   # bio              : "Researcher in Extended Reality (XR) and Mental Health"
   email            : "woojin.ko.career@gmail.com"
@@ -115,12 +115,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/woojinko"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/stillwoojy/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/woojin_ko"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/stillwoojy/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/woojin_ko"
 
 
 

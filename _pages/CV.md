@@ -5,7 +5,7 @@ categories: jekyll update
 permalink: /cv/
 pdf_file: "/assets/pdf/Woojin_Ko_CV.pdf"
 pdf_file2: "/assets/pdf/Resume_2025_VR.pdf"
-pdf_file3: "/assets/pdf/Resume_2025_Software.pdf"
+pdf_file3: "/assets/pdf/Resume_2026_Software.pdf"
 ---
 
 

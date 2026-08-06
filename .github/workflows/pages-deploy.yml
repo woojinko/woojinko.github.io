@@ -1,4 +1,7 @@
 # Deploy Jekyll site to GitHub Pages on every push to main.
+# Uses Actions (not the built-in Pages builder) so custom plugins like
+# jekyll-pdf-embed work. Theme is loaded via remote_theme in _config.yml.
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 name: Deploy Jekyll site to Pages
 
 on:
@@ -24,17 +27,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: "3.3"
           bundler-cache: true
-          cache-version: 0
+          cache-version: 1
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
+        # Fetch remote_theme over the network during build
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production

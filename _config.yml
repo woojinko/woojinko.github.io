@@ -8,11 +8,11 @@
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
+# Remote theme method for GitHub Pages:
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Woojin Ko (they/them)"
 description              : #"An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.woojinko.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "woojinko/woojinko.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/500x300.png"
 logo                     : #
 masthead_title           : "Woojin" # overrides the website title displayed in the masthead, use " " for no title
@@ -203,7 +203,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-url: https://www.woojinko.com
 
 
 # Markdown Processing
@@ -238,6 +237,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-pdf-embed
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -246,6 +247,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-pdf-embed
 
 
 # Archives
